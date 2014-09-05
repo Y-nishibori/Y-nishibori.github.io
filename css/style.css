@@ -1,0 +1,16 @@
+@char-set "utf-8";
+
+body{
+  width:100%;
+}
+#wrapper{
+  width:100%;
+  padding-bottom: 100%;
+  background-color:#fdb377;
+  padding-left: 35%;
+  position: relative;
+}
+#mt{
+  padding-top: 20%;
+  position: fixed;
+}
